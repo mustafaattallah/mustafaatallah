@@ -58,7 +58,7 @@ arXiv preprint, 2024
 **Mustafa Attallah**
 ResearchGate publication
 
-[View PDF](Long_Term_Memory_Approach_for_Calibrating_Driving_Behavior_Parameters_in_VISSIM_Models_A_Comparative_Study.pdf)
+[View / Download PDF](https://github.com/mustafaatallah/mustafaatallah/raw/main/Long_Term_Memory_Approach_for_Calibrating_Driving_Behavior_Parameters_in_VISSIM_Models_A_Comparative_Study.pdf)
 [View on ResearchGate](https://www.researchgate.net/publication/405011076_Long-Term_Memory_Approach_for_Calibrating_Driving_Behavior_Parameters_in_VISSIM_Models_A_Comparative_Study)
 
 **Brief Summary:**
